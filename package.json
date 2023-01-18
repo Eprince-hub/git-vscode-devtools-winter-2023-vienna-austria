@@ -1,0 +1,8 @@
+{
+  "name": "git-vscode-devtools-winter-2023-vienna-austria",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Eprince-hub/git-vscode-devtools-winter-2023-vienna-austria.git",
+  "author": "Victor Ejike Nwosu <ejikello123@yahoo.com>",
+  "license": "MIT"
+}
